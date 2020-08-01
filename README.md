@@ -1,2 +1,2 @@
-### OPA!!! Sou um estudante, atualmente estudando react/node⚛
+### OPA!!! Sou um estudante, aprendendo react/node⚛
 
