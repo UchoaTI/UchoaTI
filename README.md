@@ -1,5 +1,5 @@
 ### OPA!!! Prazer meu nome é Lucas Uchôa sou um estudante de CC ,Apaixonado por Front-end ⚛
-![](https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif)
+![](https://media1.giphy.com/media/3knKct3fGqxhK/giphy.gif)
 
 
 👽 Tecnologias: Front - end: HTML | CSS | JavaScript // Back - end: Node | MongoDb | ApiRest | Docker;
