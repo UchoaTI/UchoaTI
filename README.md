@@ -1,4 +1,4 @@
-### OPA!!! Prazer meu nome é Lucas Uchôa sou um estudante de CC ,Apaixonado por Front-end ☂
+### OPA!!! Prazer, meu nome é Lucas Uchôa sou um estudante de CC, Apaixonado por Front-end ☂
 ![](https://media1.giphy.com/media/3knKct3fGqxhK/giphy.gif)
 
 
