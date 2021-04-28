@@ -4,7 +4,7 @@
 
 👽 Tecnologias: Front - end: HTML | CSS | JavaScript // Back - end: Node | MongoDb | ApiRest | Docker;
 
-🚀 Fortemente engajado em Front-end estou em busca da proimeira oportunidade;
+🚀 Fortemente engajado em Front-end;
 
 📚 Atualmente tenho me dedicado aos estudos mais avançados de JavaScript e Node;
 
