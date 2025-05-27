@@ -1,6 +1,6 @@
 ### E aí! 👋 Sou o Lucas Uchôa, um Designer UX/UI com 6 anos de experiência, agora em transição para o Desenvolvimento de Software.
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN1Znk4ZGxhMWEyczY4ZnF4NTFhb2E1ZG9hbDFwZDlkc3hhdWdmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150" height="100">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN1Znk4ZGxhMWEyczY4ZnF4NTFhb2E1ZG9hbDFwZDlkc3hhdWdmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200" height="300">
 
 Minha paixão por criar experiências de usuário incríveis me guiou por diversos projetos, e agora estou canalizando essa expertise para construir soluções de software robustas e intuitivas. Ao longo da minha jornada como UX/UI Designer, desenvolvi uma base sólida em:
 
